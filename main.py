@@ -174,7 +174,7 @@ if 'messages' not in st.session_state:
 
 
 #title
-st.title('Stock Analysis Chatbot Assistant')
+st.title('Rich Goose Ai')
 
 user_input = st.text_input('Your input:')
 
